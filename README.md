@@ -44,7 +44,7 @@ The two polynomials x³ − x − 1 and x⁴ − x − 1 sit at the Pisot bounda
 - **Arithmetic Geometry at the Pisot Boundary** — six theorems on discriminants, Galois groups, class fields, and the Hodge star ([Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Stephanie%20Alexander%22))
 - **Elliptic Curves Associated to the Pisot-Boundary Polynomials** — full arithmetic invariants of both curves ([Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Stephanie%20Alexander%22))
 
-The strong coupling constant is the first fundamental constant of nature derived from a proved theorem in arithmetic geometry with zero free parameters.
+The strong coupling constant is the first fundamental constant of nature identified with an exact computable invariant of arithmetic geometry, with zero free parameters.
 
 ## Verify Independently
 
