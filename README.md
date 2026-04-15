@@ -52,6 +52,7 @@ The period can be confirmed against the LMFDB entry: [https://www.lmfdb.org/Elli
 
 ## Author
 
-Stephanie Alexander — [Baryonix Corp.](https://baryonix.com) — 2026
+Stephanie Alexander — stephanie@baryonix.com — 2026
 
-Part of [Pisot Dimensional Theory (PDT)](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Stephanie%20Alexander%22).
+Part of Pisot Dimensional Theory. 
+
